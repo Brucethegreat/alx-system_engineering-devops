@@ -1,2 +1,2 @@
 #!/bin/bash
-derectorypermission
+chmod a+x *
